@@ -3,9 +3,9 @@ BDAY;VALUE=DATE:
 VERSION:3.0
 N:Memon;Nauman
 FN:Nauman Memon
-ORG:HASI
-ADR;TYPE=WORK,POSTAL,PARCEL:;One Park Place;Suite 200;Annapolis;MD;21401;USA
-TEL;TYPE=WORK,MSG:+1-301-
+ORG:HASI (Hannon Armstrong Sustainable Infrastructure Capital)
+ADR;TYPE=WORK,POSTAL,PARCEL:;Suite 200;One Park Place;Annapolis;MD;21401;USA
+TEL;TYPE=WORK,MSG:+1-410-216-5117
 TEL;TYPE=WORK,FAX:
 EMAIL;TYPE=INTERNET:nmemon@hasi.com
 END:VCARD

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=en-us:Jenkins;Gil
+FN:Gil Jenkins
+ORG:Hannon Armstrong;Corporate Communications
+TITLE;CHARSET=us-ascii:Vice President - Corporate Communications & Public Affairs
+TEL;WORK;VOICE:(443) 321-5753
+TEL;CELL;VOICE:(415) 971-7044
+ADR;WORK;PREF:;;One Park Place, Ste. 200;Annapolis;MD;21401;United States
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:One Park Place, Ste. 200=0D=0A=
+Annapolis, MD  21401
+EMAIL;PREF;INTERNET:gjenkins@hannonarmstrong.com
+REV:20230127T015557Z
+END:VCARD

@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-PHOTO;VALUE=uri:https://upload.wikimedia.org/wikipedia/commons/2/25/Intel_logo_%282006-2020%29.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://upload.wikimedia.org/wikipedia/commons/2/25/Intel_logo_%282006-2020%29.jpg
 N:Memon;Nauman
 FN:Nauman Memon
 ORG:HASI
